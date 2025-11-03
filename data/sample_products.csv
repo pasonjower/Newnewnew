@@ -1,0 +1,7 @@
+sku,name,vendor_id,vendor_name,metal,grams_per_unit,base_unit_cost,finishing_loss_pct,shrinkage_pct,list_price
+RING-001,Aurora Stacking Ring,V001,Golden Foundry,Au,3.5,150,2.0,1.5,450
+NECK-002,Luna Drop Necklace,V001,Golden Foundry,Au,5.5,220,3.0,2.0,620
+BRAC-003,Helios Cuff Bracelet,V002,Artisan Metals,Pt,6.2,260,4.0,3.0,700
+EARR-004,Solstice Stud Earrings,V002,Artisan Metals,Au,2.3,90,1.5,1.0,260
+PEND-005,Galaxy Pendant,V003,Heritage Casting,Au,4.0,160,2.5,1.5,520
+BAND-006,Everline Comfort Band,V003,Heritage Casting,Pt,3.8,180,2.0,1.8,420

@@ -1,0 +1,7 @@
+sku,name,vendor_id,vendor_name,recommended_order_qty,lead_time_days,target_po_date,projected_stockout_date,gross_margin_rate,weeks_of_supply,sku_health_score,rationale_tags
+RING-001,Aurora Stacking Ring,V001,Golden Foundry,100.0,21.0,2025-11-24,2025-11-05,0.1759,0.4,51.33,Below reorder point
+BRAC-003,Helios Cuff Bracelet,V002,Artisan Metals,24.0,14.0,2025-11-17,2025-11-05,0.3337,0.2857,51.24,Below reorder point
+NECK-002,Luna Drop Necklace,V001,Golden Foundry,70.0,21.0,2025-11-24,2025-11-05,0.0828,0.3429,44.12,Below reorder point
+PEND-005,Galaxy Pendant,V003,Heritage Casting,64.0,28.0,2025-12-01,2025-11-06,0.2046,0.551,39.19,Below reorder point
+BAND-006,Everline Comfort Band,V003,Heritage Casting,72.0,28.0,2025-12-01,2025-11-05,0.2724,0.3061,34.18,Below reorder point
+EARR-004,Solstice Stud Earrings,V002,Artisan Metals,60.0,14.0,2025-11-17,2025-11-06,0.0956,0.5143,33.48,Below reorder point
